@@ -1,0 +1,31 @@
+ros-kinetic-mynt-eye-ros-wrapper (0.2.4-1xenial) xenial; urgency=high
+
+  * add MYNT-EYE-S-SDK lib
+
+ -- John Zhao <johnzhao@slightech.com>  Tue, 12 Nov 2019 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.2.3-1xenial) xenial; urgency=high
+
+  * update package
+
+ -- John Zhao <johnzhao@slightech.com>  Sun, 10 Nov 2019 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.1.5-1xenial) xenial; urgency=high
+
+  * SDK2.0
+
+ -- John Zhao <johnzhao@slightech.com>  Sun, 03 Nov 2019 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.1.1-1xenial) xenial; urgency=high
+
+  * modify package version
+
+ -- John Zhao <johnzhao@slightech.com>  Wed, 05 Sep 2018 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.1.0-1xenial) xenial; urgency=high
+
+  * first version
+
+ -- John Zhao <johnzhao@slightech.com>  Tue, 04 Sep 2018 16:00:00 -0000
+
+

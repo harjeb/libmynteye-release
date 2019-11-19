@@ -23,10 +23,6 @@ Changelog for package libmynteye
 ------------------
 * add MYNT-EYE-S-SDK lib
 
-0.2.5 (2019-11-13)
+0.2.7 (2019-11-19)
 ------------------
-* fix cmake path
-
-0.2.6 (2019-11-14)
-------------------
-* remove 3D obj
+* use static lib instead
